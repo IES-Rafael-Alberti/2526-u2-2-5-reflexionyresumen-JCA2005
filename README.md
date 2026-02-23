@@ -13,12 +13,12 @@
 
 ## 1. Datos del alumno/a
 
-- **Nombre y apellidos:**  
-- **Iniciales:**  
-- **Grupo:**  
-- **Actividad / ID:**  
-- **Unidad / Tema:**  
-- **Fecha de entrega:**  
+- **Nombre y apellidos:*Javier Calvillo Acebedo*  
+- **Iniciales:*JCA*  
+- **Grupo:*5*  
+- **Actividad / ID:*2.a..e - Reflexión y Resumen sobre la Unidad (Individual)*  
+- **Unidad / Tema:*Unidad 2: Análisis de incidentes*  
+- **Fecha de entrega:*23 de febrero de 2026*  
 
 ---
 
@@ -81,9 +81,8 @@ Para elevar la calidad, intenta incluir en tus respuestas:
 Las evidencias se almacenan en la carpeta: **[`/evidencias/`](evidencias/)**
 
 Recomendación de nombres:
-- `01_...`
-- `02_...`
-- `03_...`
+- `evidencias/Captura 32.png`
+- `evidencias/Captura 33.png`
 
 
 ## 7. Checklist de entrega
