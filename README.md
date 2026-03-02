@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/QO66Lm42)
 # Actividad — Reflexión y Resumen (Plantilla genérica)
 
 > **Entrega 100% en Markdown (GitHub), limite max. aprox. 5000 palabras**  
@@ -12,12 +13,12 @@
 
 ## 1. Datos del alumno/a
 
-- **Nombre y apellidos:**  
-- **Iniciales:**  
-- **Grupo:**  
-- **Actividad / ID:**  
-- **Unidad / Tema:**  
-- **Fecha de entrega:**  
+- **Nombre y apellidos:*Javier Calvillo Acebedo*  
+- **Iniciales:*JCA*  
+- **Grupo:*5*  
+- **Actividad / ID:*2.a..e - Reflexión y Resumen sobre la Unidad (Individual)*  
+- **Unidad / Tema:*Unidad 2: Análisis de incidentes*  
+- **Fecha de entrega:*23 de febrero de 2026*  
 
 ---
 
@@ -80,19 +81,18 @@ Para elevar la calidad, intenta incluir en tus respuestas:
 Las evidencias se almacenan en la carpeta: **[`/evidencias/`](evidencias/)**
 
 Recomendación de nombres:
-- `01_...`
-- `02_...`
-- `03_...`
+- `evidencias/Captura 32.png`
+- `evidencias/Captura 33.png`
 
 
 ## 7. Checklist de entrega
 
-- [ ] He rellenado `Actividad / ID` y `Unidad / Tema`
-- [ ] He rellenado los datos del alumno/a en `README.md` y `RESPUESTAS.md`
-- [ ] He respondido **todas** las preguntas en `RESPUESTAS.md`
-- [ ] He incluido el **resumen esquematizado** contemplando todos los puntos
-- [ ] (Opcional) He incluido evidencias en `/evidencias/` y las he enlazado desde `RESPUESTAS.md`
-- [ ] El repositorio está ordenado y es legible
+- [x] He rellenado `Actividad / ID` y `Unidad / Tema`
+- [x] He rellenado los datos del alumno/a en `README.md` y `RESPUESTAS.md`
+- [x] He respondido **todas** las preguntas en `RESPUESTAS.md`
+- [x] He incluido el **resumen esquematizado** contemplando todos los puntos
+- [x] (Opcional) He incluido evidencias en `/evidencias/` y las he enlazado desde `RESPUESTAS.md`
+- [x] El repositorio está ordenado y es legible
 
 
 ## 8. Evaluación
